@@ -43,7 +43,7 @@ Usage
 Ensure that you have entered the Telegram Bot API Token, Telegram Chat ID, Server IP Address, and Port at the beginning of the project.
 Start the project:
 
-    python main.py
+    python kayastats.py
 
 The project will listen to server requests and send a Telegram bot notification if a DDoS attack is detected.
 
@@ -53,4 +53,11 @@ If you wish to contribute to the project, please read the CONTRIBUTING.md file a
 License
 This project is licensed under the MIT License.
 
-#ethereum #blockchain #eth #kayaai #kayaaicom #balance #checker
+#DDoS Attack Detection
+#Notification Application
+#Telegram Bot
+#Python 3.x
+#Telegram Bot API Token
+#Telegram Chat ID
+#Server IP Address
+#Port
