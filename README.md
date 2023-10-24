@@ -2,14 +2,6 @@
   <img src="https://avatars.githubusercontent.com/u/134784255?v=4" alt="Fotoğraf">
 </p>
 
-<a href="https://www.buymeacoffee.com/kayaaicom"> 
-<img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" width="150"></a>
-
-OR
-<br>
-<img src="https://bitcoin.org/img/icons/logotop.svg?1687792074" width="100" alt="BTC">: 1KAYAaiM83LP6BuviwsHRjvkXepMhy4nop
-<br>
-
 # DDoS Attack Detection and Notification Application
 
 This application is used to detect Distributed Denial of Service (DDoS) attacks and notify the user. It also sends notifications through a Telegram bot.
@@ -52,6 +44,10 @@ If you wish to contribute to the project, please read the CONTRIBUTING.md file a
 
 License
 This project is licensed under the MIT License.
+
+<h3>Support:</h3>
+<p><a href="https://www.buymeacoffee.com/kayaaicom"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kayaaicom" /></a></p><br><br>
+<br><img src="https://bitcoin.org/img/icons/logotop.svg?1687792074" width="100" alt="BTC"><h4>1KAYAaiM83LP6BuviwsHRjvkXepMhy4nop</h4>
 
 #DDoS Attack Detection
 #Notification Application
