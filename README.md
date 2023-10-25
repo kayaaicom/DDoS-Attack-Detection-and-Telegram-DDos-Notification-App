@@ -6,6 +6,9 @@
 
 This application is used to detect Distributed Denial of Service (DDoS) attacks and notify the user. It also sends notifications through a Telegram bot.
 
+![Bitcoin Balance Checker](https://raw.githubusercontent.com/kayaaicom/Electrum-Bitcoin-Address-Balance-Checker/main/Bitcoin%20Balance%20Checker.gif)
+
+
 ## Getting Started
 
 This guide includes the necessary steps to run the project on a local server. Before running the project, make sure you have the following requirements:
